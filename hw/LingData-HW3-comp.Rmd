@@ -109,20 +109,22 @@ This is also quite clear by looking at the histogram. The majority of students  
 ### 3.3
 Which of the following values is closer to be the median of `mistakes`: $10$, $20$, $30$, $40$?
 ```
-
-```
-Explain your answer below:
-
-
-### Problem 4. Exact binomial test
-
-The null hypothesis is that $p=0$ (i.e. no success is possible). In a dataset, there is only one success out of 1 000 000 observations. Will you reject the null hypothesis? 
-```
 20
 ```
 Explain your answer below:
 ```
 I wrote 20 as an answer, since it seems like most of the values are close to 20 or after it. 
+```
+
+### Problem 4. Exact binomial test
+
+The null hypothesis is that $p=0$ (i.e. no success is possible). In a dataset, there is only one success out of 1 000 000 observations. Will you reject the null hypothesis? 
+```
+Yes, I will.
+```
+Explain your answer below:
+```
+Because one success is more than zero, hence the null hypothesis is already not true.
 ```
 
 ## Part 3
